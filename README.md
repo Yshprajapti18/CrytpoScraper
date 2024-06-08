@@ -2,7 +2,7 @@
 
 I would have done the whole assignment but I have some work due from my college.
 
-### A Django REST Framework API which will take in a list of crypto coin acronyms, scrape the data from the website, and return back the JSON response.
+### A Django REST Framework API which will take in a list of crypto coin , scrape the data from the website, and return back the JSON response.
 
 ### Libraries to Use
 - djangorestframework
